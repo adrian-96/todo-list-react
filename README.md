@@ -2,7 +2,7 @@
 
 ## Demo
 
-...
+[To do list](https://adrian-96.github.io/todo-list-react/)
 
 ## Description
 
@@ -10,7 +10,7 @@ This is an application that allows you to add new tasks and mark them as done or
 
 ## Preview
 
-...
+![To do list](https://github.com/adrian-96/todo-list-react/tree/main/public/to-do-list.gif?raw=true)
 
 ## Technologies
 - HTML semantic
