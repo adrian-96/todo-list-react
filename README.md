@@ -10,7 +10,7 @@ This is an application that allows you to add new tasks and mark them as done or
 
 ## Preview
 
-![To do list](https://github.com/adrian-96/todo-list-react/tree/main/public/to-do-list.gif?raw=true)
+![To do list](https://github.com/adrian-96/todo-list-react/blob/main/public/to-do-list.gif?raw=true)
 
 ## Technologies
 - HTML semantic
@@ -20,6 +20,8 @@ This is an application that allows you to add new tasks and mark them as done or
 - BEM convention
 - JS
 - ES6+ features
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
